@@ -1,4 +1,4 @@
-# Lenia
+# cuLenia
 
 cuLenia is a new implementation of the Lenia algorithm developed in the CUDA C++ programming language. The visualization part is done with the open-source library GLFW which represents a lightweight toolkit for
 the management of windows and OpenGL contexts; however, it could easily be adapted to other rendering frameworks.
